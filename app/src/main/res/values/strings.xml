@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HR One Tap Cleaner</string>
+    <string name="tagline">Smart, Safe &amp; Transparent Android Optimization</string>
+    <string name="one_tap_scan">ONE TAP SCAN</string>
+    <string name="one_tap_clean">CLEAN SELECTED JUNK</string>
+    <string name="storage_label">Device Storage</string>
+    <string name="battery_label">Battery Health</string>
+    <string name="temperature_label">Thermal Status</string>
+    <string name="memory_label">RAM Status</string>
+    <string name="health_score">Device Health Score</string>
+</resources>

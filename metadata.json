@@ -1,0 +1,6 @@
+{
+  "name": "HR One Tap Cleaner",
+  "description": "Premium Android cleaner with real-time junk detection, storage analysis, battery and heat insights, lag troubleshooter, and smart repair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
